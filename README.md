@@ -7,4 +7,4 @@ This notebook is the original *flowers* neural network, rebuilt so that:
 3. **Vectorization** — the tokens become a NumPy feature matrix `X` and label vector `y`, and every loop in the original code (cost, training, decision-boundary grid) is replaced with vectorized NumPy matrix operations.
 
 
-Google Collab link- https://colab.research.google.com/drive/1U4GKSIUrCOk1N_HqtaWL5gpFUn5LAvxd?usp=sharing
+
